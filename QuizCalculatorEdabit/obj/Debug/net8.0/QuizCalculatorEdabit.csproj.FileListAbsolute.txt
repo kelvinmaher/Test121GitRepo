@@ -1,0 +1,14 @@
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\QuizCalculatorEdabit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\QuizCalculatorEdabit.AssemblyInfoInputs.cache
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\QuizCalculatorEdabit.AssemblyInfo.cs
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\QuizCalculatorEdabit.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\bin\Debug\net8.0\QuizCalculatorEdabit.exe
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\bin\Debug\net8.0\QuizCalculatorEdabit.deps.json
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\bin\Debug\net8.0\QuizCalculatorEdabit.runtimeconfig.json
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\bin\Debug\net8.0\QuizCalculatorEdabit.dll
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\bin\Debug\net8.0\QuizCalculatorEdabit.pdb
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\QuizCalculatorEdabit.dll
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\refint\QuizCalculatorEdabit.dll
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\QuizCalculatorEdabit.pdb
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\QuizCalculatorEdabit.genruntimeconfig.cache
+C:\Users\kelvi\OneDrive\Data Structures\QuizCalculatorEdabit\QuizCalculatorEdabit\obj\Debug\net8.0\ref\QuizCalculatorEdabit.dll
